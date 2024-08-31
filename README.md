@@ -33,7 +33,7 @@ Find us on both App Store and Google Play!
 | Testing| <img src="https://img.shields.io/badge/SLF4J-6DB33F?style=flat-square&logo=springBoot&logoColor=white"> ||
 | Security| <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Amazon SES -DD344C?style=flat-square&logo=springBoot&logoColor=white">||
 | Tools| <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">||
-| Design| <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> ||
+| Design| <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/StackEdit-606060?style=flat-square&logo=stackEdit&logoColor=white"> <img src="https://img.shields.io/badge/Simple Icons-111111?style=flat-square&logo=simpleIcons&logoColor=white">||
 
 
 ## Architecture <span>:paperclip:</span> 
